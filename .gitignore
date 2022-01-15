@@ -1,0 +1,6 @@
+*.pro.user
+data
+images
+.vscode
+build
+/bb/
